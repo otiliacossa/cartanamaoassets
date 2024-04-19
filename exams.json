@@ -1,0 +1,1172 @@
+[
+    {
+        "id": 1,
+        "questions": [
+            {
+                "id": 1,
+                "title": "O sinal indica:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e1.png",
+                "options": [
+                    "Existência de controlo de trafégo adiante",
+                    "Controle policial por pirilampos",
+                    "Congestionamento de Tráfego",
+                    "Dever de Parar"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 2,
+                "title": "Os automóveis classificam-se em:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e2.png",
+                "options": [
+                    "Ligeiros e Pesados",
+                    "Ligeiros, Pesados e Motociclos",
+                    "Motociclos, Ciclomotores, Triclos, Quadraciclos, Ligeiros e Pesados",
+                    "Ligeiros, Pesados e Mistos"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 3,
+                "title": "É aconselhável viajar à noite para evitar fadiga?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e3.png",
+                "options": [
+                    "Não, porque o sono aparece mais facilmente",
+                    "Sim, se a viagem é longa",
+                    "Sim, porque há menos tráfego",
+                    "Sim, viajar durante a noite é sempre mais seguro"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 4,
+                "title": "O que indica o sinal de informação?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e4.png",
+                "options": [
+                    "Área reservada para automóveis",
+                    "Área reservada para táxis",
+                    "Parque de estacionamento para automóveis ligeiros de passageiros"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 5,
+                "title": "Que veículo deve retroceder para dar passagem ao outro?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e5.png",
+                "options": [
+                    "O veículo mais pesado",
+                    "O veículo com maior largura",
+                    "O veículo que está mais próximo do local em que o cruzamento seja possível",
+                    "O veículo que desce se for numa via de inclinação acentuada"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 6,
+                "title": "Deve utilizar-se as luzes de perigo...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e6.png",
+                "options": [
+                    "Ao estacionar em segunda fila",
+                    "Para aviasar os outros utentes que o veículo vai fazer marcha atrás",
+                    "Em caso de imobilização por acidentes ou avaria, se origina perigo para os demais utentes da via",
+                    "Apenas quando o veículo esteja ser rebocado"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 7,
+                "title": "O que indica a marca rodoviária branca?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e7.png",
+                "options": [
+                    "Indica a existência de banda sonoras",
+                    "Indica a redução de filas de trânsito",
+                    "Indica a existência de lombas"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Atirar do veículo ou abandonar na via objecto ou substância, constitui contravenção:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e8.png",
+                "options": [
+                    "Leve",
+                    "Grave",
+                    "Média"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 9,
+                "title": "Entende-se por visibilidade reduzida ou insuficiente, quando o condutor não possa avistar a faixa de rodagem em toda a sua largura numa extensão de:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e9.png",
+                "options": [
+                    "Pelo menos, 50 metros",
+                    "Pelo menos, 200 metros",
+                    "Pelo menos, 100 metros",
+                    "Pelo menos, 25 metros"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 10,
+                "title": "O que indica o sinal",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e10.png",
+                "options": [
+                    "Sentido proibido",
+                    "Trânsito proibido",
+                    "Trânsito proibido a automóveis ligeiros de passageiros",
+                    "Nenhuma das anteriores"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 11,
+                "title": "Uma das consequências de aumentar a velocidade, é de que…",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e11.png",
+                "options": [
+                    "Melhora o tempo de reacção",
+                    "Aumenta a gravidade das lesões em caso de acidente",
+                    "Reduz a distância de travagem",
+                    "Reduz as distracções"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "O trânsito de veículos ou de animais é feito…",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e12.png",
+                "options": [
+                    "Do lado direito das faixas de rodagem e o mais próximo possível das bermas ou passeios",
+                    "Próximo do eixo da via",
+                    "Pela esquerda das faixas de rodagem e o mais próximo possível das bermas ou passeios, mas a uma distância destes que permita evitar qualquer acidente"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": "Numa autoestrada, pode-se inverter o sentido de marcha?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e13.png",
+                "options": [
+                    "Sempre que possível",
+                    "Nunca",
+                    "Sim, se a manobra for feita lentamente"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 14,
+                "title": "O que indica o sinal ?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e14.png",
+                "options": [
+                    "Paragem proibida a veículos que transportam substâncias perigosas",
+                    "Paragem obrigatória para veículos que transportam substâncias perigosas",
+                    "Área reservada para veículos que transportam substâncias perigosas"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "Que comunica o condutor aos outros utentes da via ?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e15.png",
+                "options": [
+                    "Que vai para o lado esquerdo do volante",
+                    "Que vai voltar para o lado direito do volante",
+                    "Que vai reduzir a velocidade"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 16,
+                "title": "O que indica o sinal ?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e16.png",
+                "options": [
+                    "A presença de cancela motorizada ao centro",
+                    "A presença de ponte móvel",
+                    "A presença de entrocamento oblíquo à esquerda"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 17,
+                "title": "O que indica o sinal ?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e17.png",
+                "options": [
+                    "Pré-advertência da direção de saída",
+                    "Advertência da direção de saída",
+                    "Direção de saída"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 18,
+                "title": "Considera-se morte por acidente de viação:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e18.png",
+                "options": [
+                    "Aquela que ocorre até 30 dias após o registro do sinistro",
+                    "Aquela que ocorre no local do sinistro",
+                    "Aquela que ocorre 30 dias depois de registro do sinistro"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 19,
+                "title": "Os peões, para atravessar a faixa de rodagem…",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e19.png",
+                "options": [
+                    "Podem fazê-lo sem utilizar passagens para peões, se não existe nenhuma a um distância inferior a 10m",
+                    "Estão sempre obrigados a utilizar a passagem desnivelada para peões",
+                    "Têm sempre prioridade de passagem",
+                    "Devem certificar-se de que a distância e velocidade dos veículos, permite fazê-lo sem perigo de acidente"
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 20,
+                "title": "Nos veículos de mercadorias, a carga deve ser disposta de modo a que:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e20.png",
+                "options": [
+                    "O principal peso fique sobre o eixo da retaguarda",
+                    "Fique livre o maior espaço possível à retaguarda da caixa de carga",
+                    "Seja assegurado o equilíbrio do veículo, parado ou em movimento"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "O que indica o sinal ?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e21.png",
+                "options": [
+                    "Trânsito proibido a peões, animais e veículos automóveis",
+                    "Trânsito proibido a peões, animais e veículos não automóveis",
+                    "Trânsito proibido a animais e veículos não automóveis"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 22,
+                "title": "É proibido ultrapassar:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e22.png",
+                "options": [
+                    "Em todas as curvas",
+                    "Depois dos cruzamentos",
+                    "Nas estradas que só tenham uma via de trânsito para cada sentido",
+                    "Imediatamente antes e nas passagens para peões"
+                ],
+                "correctOptionIndex": 3
+            },
+            {
+                "id": 23,
+                "title": "Os automóveis pesados de passageiros, fora das localidades, não devem exceder a velocidade instantânea de:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e23.png",
+                "options": [
+                    "80 km/h",
+                    "120 km/h",
+                    "100 km/h"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 24,
+                "title": "Todos os condutores de veículos ou animais são obrigados a…",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e24.png",
+                "options": [
+                    "Abandonar os veículos nos locais de estacionamento sem motivo justificado",
+                    "Reduzir ou suspender intencionalmente a circulação, formando filas de trânsito desnecessárias",
+                    "Obedecer ao sinal de paragem feito pelas autoridades com competência para fiscalização do trânsito"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame1/e25.png",
+                "options": [
+                    "Sentido obrigatório para a frente",
+                    "Via rápida",
+                    "Existência de portagem na via em que segue",
+                    "Nenhuma das anteriores"
+                ],
+                "correctOptionIndex": 2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "questions": [
+            {
+                "id": 1,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e1.png",
+                "options": [
+                    "Desvio da fila de trânsito para a direita",
+                    "Desvio da fila trânsito a esquerda",
+                    "Desvio e aumento de filas de trânsito para a esquerda"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 2,
+                "title": "É necessário verificar com frequência o sistema de iluminação?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e2.png",
+                "options": [
+                    "Sim, mudando todos os fusíveis",
+                    "Sim, para se assegurar que todas as luzes funcionaem e que os faróis estão bem regulados",
+                    "Não, porque se deve fazer unicamente numa oficina",
+                    "Não, é suficiente a revisão inspecção periódica obrigatória"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "Que deve fazer o condutor de um veículo avariado enquanto não for devidamente estacionado ou removido?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e3.png",
+                "options": [
+                    "Colocar os sinais de pré-sinalização de perigo e depois vestir o colete reflector",
+                    "Colocar um sinal de pré-sinalização de perigo 5 metros à frente do veículo",
+                    "Adoptar as medidas necessárias para que os outros se apercebam da sua presença",
+                    "Colocar um sinal de pré-sinalização de perigo 10 metros à retaguarda do veículo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 4,
+                "title": "O que deve fazer o condutor que circula por uma auto-estrada",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e4.png",
+                "options": [
+                    "Aumentar a distância de segurança, por se seguir a velocidade mais elevadas",
+                    "Diminuir a distância de segurança, por se seguir a velocidade elevadas",
+                    "Circular pela via de trânsito à direita, ainda que a via da esquerda se encontre livre de trânsito"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 5,
+                "title": "O que indica o sinal luminoso",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e5.png",
+                "options": [
+                    "Acesso ou passagem interdito",
+                    "Acesso ou passagem autorizado",
+                    "Acesso ou passagem condicionada"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 6,
+                "title": "A luz de cruzamento (médios), destina-se a iluminar a via para frente do veículo numa distância até:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e6.png",
+                "options": [
+                    "30 metros",
+                    "40 metros",
+                    "50 metros",
+                    "60 metros"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 7,
+                "title": "O que indica a marca rodoviária",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e7.png",
+                "options": [
+                    "Linha de cedência de prioridade com símbolo triangular",
+                    "Linha de paragem obrigatória com stop",
+                    "Linha de paragem obrigatória"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 8,
+                "title": "Um torniquete é",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e8.png",
+                "options": [
+                    "Um pedaço de pau curto amarrado em torno de um membro",
+                    "Um pedaço de papel onde se menciona a parte do corpo que foi amarrada",
+                    "Uma tira larga de pano, amarrada firmemente em torno de um membro",
+                    "Uma peça de madeira, utilizada para aliviar a dor da vítimo do acidente"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 9,
+                "title": "Podem ser submetidos às provas de detecção de álcool ou substâncias estupefacientes ou psicotrópicas:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e9.png",
+                "options": [
+                    "Apenas os condutores de veículos automóveis",
+                    "Os peões, sempre que sejam intervenientes em acidentes de trânsito e os condutores",
+                    "Todos os condutores e peões que transitem pela via pública",
+                    "Só os condutores que sejam intervenientes em acidentes de trânsito"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 10,
+                "title": "Fora das localidades, os condutores de ciclomotores e quadricilcos, não devem exceder a velocidade instantânea de:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e10.png",
+                "options": [
+                    "50 km/h",
+                    "40 km/h",
+                    "45 km/h",
+                    "35 km/h"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 11,
+                "title": "Que veículos devem ter o seguro de responsabilidade civil para transitar na via pública?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e11.png",
+                "options": [
+                    "Todos os veículos",
+                    "Os veículos a motor",
+                    "Só os ciclomotores",
+                    "Apenas os veículos automóveis"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "Qual é a função do cinto de segurança de um veículo ?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e12.png",
+                "options": [
+                    "Reter e proteger os ocupantes numa colisão",
+                    "Manter os ocupantes sentados na posição correcta",
+                    "Permitir que os ocupantes se desloquem sobre o assento em caso de acidente",
+                    "Apenas impedir as lesões do condutor em casa de capotagem"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 13,
+                "title": "Para garantir uma proteção adequada, os sistemas de retenção de crianças devem ser:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e13.png",
+                "options": [
+                    "Da cor dos estofos do veículo",
+                    "Colocados sem cautela em cima dos bancos do veículo",
+                    "Adequados ao tamanho e peso da criança"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "É perigoso conduzir quando o condutor está cansado?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e14.png",
+                "options": [
+                    "Não há perigo, já que o cansaço relaxa",
+                    "Sim, porque o condutor demora mais tempo a reagir",
+                    "Não, porque se conduz mais devagar",
+                    "Sim, mais só quando se conduz dentro das localidades"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 15,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e15.png",
+                "options": [
+                    "Indica a existência de uma via rápida",
+                    "Indica a existência de uma via de sentido único",
+                    "Indica a existência de uma Auto-Estrada"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 16,
+                "title": "O que significa responsabilidade moral?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e16.png",
+                "options": [
+                    "Responder perante o Tribunal",
+                    "Responder pelos seus próprios actos",
+                    "Prestar contas perante os membros da sociedade"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 17,
+                "title": "O que indica o sinal",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e17.png",
+                "options": [
+                    "Via obrigatória para veículos que transportam substâncias perigosas",
+                    "Fim de proibição de veículos que transportam substâncias perigosas",
+                    "Via obrigatória para automóveis"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 18,
+                "title": "Nesta situação, quem tem prioridade de passagem?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e18.png",
+                "options": [
+                    "O condutor que entra na rotunda",
+                    "O condutor que chegar primeiro",
+                    "O condutor que circula da rotunda",
+                    "O condutor que circule com uma velocidade mais elevada"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "Fumar enquanto conduz",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e19.png",
+                "options": [
+                    "é aconselhável, pois ajuda a manter a atenção",
+                    "é proibido",
+                    "pode afectar a atenção na condução",
+                    "Reduz a agressividade do condutor"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e20.png",
+                "options": [
+                    "Estacionamento proibido",
+                    "Paragem e estacionamento proibido",
+                    "Estacionamento condicionado"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 21,
+                "title": "Na situação apresentada, pode ultrapassar o veículo pela esquerda?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e21.png",
+                "options": [
+                    "Sim, se esse veiculo circula por baixo do limite máximo de velocidade",
+                    "Não",
+                    "Sim, pode-se sempre ultrapassar pela esquerda",
+                    "Sim, porque a linha é descontinua"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 22,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e22.png",
+                "options": [
+                    "Proibição de circulação de peões",
+                    "Prioridade de passagem para peões",
+                    "Proibição de passagem de peões",
+                    "Pista obrigatória para peões"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 23,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e23.png",
+                "options": [
+                    "Sinalização luminosa em manutenção",
+                    "Sinalização luminosa",
+                    "Passagem de nível"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 24,
+                "title": "Posso mudar de direcção para a direita nesta situação?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e24.png",
+                "options": [
+                    "Sim, desde que o assinale com a devida antecedência",
+                    "Sim, porque não há nenhuma sinalização que o impeça",
+                    "Não, proque não é possível assegurar-se que a manobra pode ser realizada sem perigo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "Diante do sinal, o condutor fica a saber que:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame2/e25.png",
+                "options": [
+                    "Não pode utilizar o sinais sonoros",
+                    "Deve utilizar os sinais sonoros",
+                    "É obrigado a desligar as luzes de estrada"
+                ],
+                "correctOptionIndex": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Para praticar uma condução segura, o condutor deve:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e1.png",
+                "options": [
+                    "Avaliar constrantemente tudo que me rodeia",
+                    "Ter em atenção apenas a sinalização existente",
+                    "Preocupar-se em ser mais rápido"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 2,
+                "title": "Nesta situação, pode ultrapassar o veículo que circula à sua frente?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e2.png",
+                "options": [
+                    "Sim, utilizando os dispositivos luminosos ou sonoros",
+                    "Não, se para o fazer tiver que pisar ou transpor a linha contínua",
+                    "Sim, já que o condutor deve encostar o seu veículo para deixar-me passar"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e3.png",
+                "options": [
+                    "Trânsito proibido ao conjunto de veículos de mercadorias, de peso total superior a 10t",
+                    "Trânsito proibido a veículos de peso por eixo múltiplo superior a 10t",
+                    "Trânsito proibido a veículos do peso por eixo superior a 10t"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 4,
+                "title": "O que indica a marca rodoviária",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e4.png",
+                "options": [
+                    "Aproximação de passagem de nível",
+                    "Faixa de sentido reversível",
+                    "Cedência de prioridade"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 5,
+                "title": "Conduzindo com chuva...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e5.png",
+                "options": [
+                    "Deve aumentar a distância de segurança para o veículo de frente",
+                    "A distância de travagem é menor",
+                    "Aumenta a distância de reacção",
+                    "Só há perigo quando se formam poças"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 6,
+                "title": "Nos veículos destinados ao transporte de passageiros ou mistos...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e6.png",
+                "options": [
+                    "A carga pode ocultar a matrícula e os dispositivso de sinalização e iluminação",
+                    "A carga deve estar arrumada por forma a que seja devidamente assegurado o equilíbrio do veículo",
+                    "A carga deve colocar-se na parte reservada aos passageiros, mesmo que reduza a visibilidade do condutor",
+                    "A carga pode ultrapassar os contornos do veículo"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 7,
+                "title": "Qual é o comportamento correto para ajudar em caso de acidente",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e7.png",
+                "options": [
+                    "Não fazer nada até chegarem os agentes da autoridade",
+                    "Transportar imediatamente os feridos mais graves para o hospital mais próximo",
+                    "Parar o veículo sem criar perigo e proteger a zona para evitar novos acidentes"
+
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Os automóveis ligeiros de passageiros e mistos com reboque, fora das localidades, não devem exceder a velocidade de instantânea de:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e8.png",
+                "options": [
+                    "80 km/h",
+                    "100 km/h",
+                    "90 km/h",
+                    "120 km/h"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 9,
+                "title": "O que indica o sinal",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e9.png",
+                "options": [
+                    "Paragem obrigatória",
+                    "Trânsito proibido a veículos com comprimento superior a 60 metros",
+                    "Paragem obrigatório a 60 metros"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "Como deve pisar o pedal de travão, em caso de necessidade de travagem de emergência, com um veículo que tenhas ABS",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e10.png",
+                "options": [
+                    "Até o fundo, sem soltá-lo até que o veículo pare",
+                    "Até o fundo e libertá-lo quando sinta vibração",
+                    "Sem muita força, porque poderia bloquear as rodas",
+                    "Ao mesmo tempo com o pedal do acelerador"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 11,
+                "title": "Como deve actuar o condutor quando tem que fazer uma curva",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e11.png",
+                "options": [
+                    "Reduzir a velociade, já dentro da curva",
+                    "Aumentar a velocidade, antes de entrar na curva",
+                    "Adaptar a velocidade, antes de entrar na curva",
+                    "Pressionar o pedla de embraiagem e não acelerar dentro da curva"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 12,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e12.png",
+                "options": [
+                    "Passagem estreita",
+                    "Ponte estreita",
+                    "Entrocamentos sucessivos"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 13,
+                "title": "É necessário verificar com frequência o sistema de iluminação",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e13.png",
+                "options": [
+                    "Sim, mudando todos os fusíveis",
+                    "Sim, para se assegurar que todas as luzes funcionam e que os faróis estão bem regulados",
+                    "Não, porque se deve fazer unicamente numa oficina",
+                    "Não, é suficente a revisão na inspecção periódica obrigatória"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 14,
+                "title": "Ao circular com velocidade excessiva",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e14.png",
+                "options": [
+                    "Aumenta a probabilidade de ter um acidente",
+                    "É mais fácil controlar o veículo numa situação de emergência",
+                    "O condutor tem um tempo de reacção mais reduzido",
+                    "O consumo de combustível é menor"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 15,
+                "title": "O que deve fazer o condutor quando a intensidade do tráfego é grande?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e15.png",
+                "options": [
+                    "Aumentar a velocidade",
+                    "Praticar uma condução defensiva",
+                    "Utilizar os sinais sonoros frequente"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 16,
+                "title": "A que  grupo percente o sinal triângular",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e16.png",
+                "options": [
+                    "Sinais temporários de obrigação",
+                    "Sinais temporários de proibição",
+                    "Sinais temporários de perigo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 17,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e17.png",
+                "options": [
+                    "Passagem desnivelada para peões com rampas",
+                    "Passagem de peões",
+                    "Pista obrigatória para peões"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 18,
+                "title": "Perante um obstáculo imprevisto que o obriga a reduzir subitamente a velocidade, o condutor deve:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e18.png",
+                "options": [
+                    "Sinalizar a situação utilizando os máximos e os médios alternadamente",
+                    "Ligar as luzes de presença para avisar os outros utentes da via",
+                    "Ligar as luzes de perigo para aviasr os outros utenes da via"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "Quais são os princípios gerais do socorrismo?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e19.png",
+                "options": [
+                    "Prevenir, socorrer e evacuar",
+                    "Prevenir, oberserver e socorrer",
+                    "Prevenir, alertar e socorrer"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "Para ter mais segurança, os peões devem...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e20.png",
+                "options": [
+                    "Transitar sempre do lado esquerdo da faixa de rogadem, em relação ao seu sentido de marcha",
+                    "Transitar pelo lado direto, em relação ao seu sentido de marcha, a nào ser que tal comprometa a sua segurança",
+                    "Fazer o atravessamente da faixa de rodagem o mais lentamente possível"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 21,
+                "title": "Onde é proibido inverter o sentido de marcha?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e21.png",
+                "options": [
+                    "Nos cruzmentos ou entrocamentos de visiviliade reduzida",
+                    "Nas rotundas",
+                    "Fora das localidades",
+                    "Só quando haja grande intensidade de tráfego"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "Conduzir um automóvel com uma parte do corpo fora do veículo, constitui:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e22.png",
+                "options": [
+                    "Contravenção média",
+                    "Contravenção leve",
+                    "Contravenção grave"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 23,
+                "title": "Nesta situação , se não for possível efectuar o cruzamento com segurança, como deve proceder o condutor?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e23.png",
+                "options": [
+                    "Acelerar para passar antes do veículo que circula em sentido contrário",
+                    "Reduzir velocidade ou parar, de modo a dar a passagem ao outro veículo",
+                    "Nada, porque eu tenho prioridade de passagem",
+                    "Utilizar os sinais sonoros para que o outro condutor pare"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "Existe algum troque para conseguir eliminar o álcool do corpo do condutor, de uma forma mais rápida?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e24.png",
+                "options": [
+                    "Sim, dormir um pouco",
+                    "Sim, tomar doces",
+                    "Não",
+                    "Consumir alguma substância psicotrópica, como cannabis ou cocaína"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "Pode favorecer o aparecimento de fadiga ao volante",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame3/e25.png",
+                "options": [
+                    "Descansar frequentemente durante uma viagem",
+                    "Conduzir por uma estrada em boas condições",
+                    "Conduzir por muito tempo sem parar para descansar",
+                    "Usar o ar condicionado"
+                ],
+                "correctOptionIndex": 2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Os peões podem transitar pela faixa de rodagem nesta estrada",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e1.png",
+                "options": [
+                    "Não, nesta estrada não podem transitar, já que não tem bermas",
+                    "Sim, com prudência e por forma a não prejudicar o trânsito de veículos",
+                    "Sim e devem fazê-lo pela esquerda da faixa de rodagem, em relação ao seu sentido de marcha",
+                    "Sim, mais só quando necessitem atravessar"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 2,
+                "title": "Como deve clocar os sinais de pré-sinalização de perigo, se o veículo avariado fica imobilizado num local onde não é visível a 100 metros de distância?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e2.png",
+                "options": [
+                    "Á frente e à retaguarda do veículo, a uma distância de 10 metros",
+                    "Só um pela retaguarda do veículo a uma distância de 5o metros",
+                    "À frente e à retaguarda do veículo, a uma distância não inferior a 30 metros",
+                    "Não é necessário colocá-los nesta situação"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 3,
+                "title": "O sinal obriga ao condutor a:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e3.png",
+                "options": [
+                    "Acender as luzes do veículo",
+                    "Apagar as luzes do veículo",
+                    "Ligar em simultâneo os indicadores de mudança de direcção"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 4,
+                "title": "É sempre proibido inverter o sentido de marcha nos túneis",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e4.png",
+                "options": [
+                    "Sim, em todos os túnveis",
+                    "Sim, quando a visibilidade for reduzida",
+                    "Sim, se o túnel for de um só sentido"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 5,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e5.png",
+                "options": [
+                    "Obrigação de circulação à velocidade mínima de 80 km/h na fila central",
+                    "Obrigação de ciruculação à velocidade miníma de 80 km/h na fila à direita",
+                    "Obrigação de circulação à velocidade mínima de 80 km/h na fila à esquerda"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 6,
+                "title": "Conduzir em condições atmosféricas adversas:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e6.png",
+                "options": [
+                    "Afecta a taxa de alcoolemia",
+                    "Reduz a fagida",
+                    "Afecta a distância de travagem"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 7,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e7.png",
+                "options": [
+                    "Início de estrada alcatroada",
+                    "Visibilidade reduzida",
+                    "Fim de estrada alcatroada"
+
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Os condutores de motociclos, dentro das localidades, não devem exceder a velocidade instantânea de:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e8.png",
+                "options": [
+                    "50 km/h",
+                    "30 km/h",
+                    "40 km/h",
+                    "60 km/h"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 9,
+                "title": "Nas passagens de nível, os condutores estão obrigados a...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e9.png",
+                "options": [
+                    "Passar quando as cancelas ou barreiras estejam em movimento",
+                    "Certificar-se que a intensidade do tráfego não o obriga a imobilizar o veículo sobre ela",
+                    "Aumentar a velocidade para atravessar rapidamente",
+                    "Engrenar uma velocidade mais baixa durante o atravessamento"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 10,
+                "title": "Como o álcool afecta tarefa de conduzir?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e10.png",
+                "options": [
+                    "Aumenta a atenção do condutor, assim que as distracções são reduzidas",
+                    "Reduz o campo de visão do condutor",
+                    "Melhora a apreciação das velocidades",
+                    "Melhora a apreciação das distâncias"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 11,
+                "title": "O consumo do cannabis afecta o comportamento do condutor?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e11.png",
+                "options": [
+                    "Sim, diminui a sonolência",
+                    "Sim, aumenta o tempo de reacção",
+                    "Não",
+                    "Sim, aumenta o seu nível de atenção"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "Os condutores devem ceder passagem...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e12.png",
+                "options": [
+                    "Aos condutores de velocípes que se apresentem pela direita numa intersecção",
+                    "Aos veículos que se apresentem nos ramais de acesso das auto-estradas",
+                    "Aos peões que tenham iniciado a travessia sobre a passagem para peões",
+                    "Aos condutores que saiam de um parque de estacionamento"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e13.png",
+                "options": [
+                    "Trânsito proibido a veíuclos de tracção manual",
+                    "Trânsito proibiod a peões, animais e veículos",
+                    "Trânsito proibido a véiculos de tracção animal"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e14.png",
+                "options": [
+                    "Via obrigatória para veículos de mercadorias",
+                    "Via obrigatória para autocarros",
+                    "Via obrigatória para automóveis pesados"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 15,
+                "title": "Para não causar perigo e por em causa a segurança das pessoas e das coisas, os condutores devem...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e15.png",
+                "options": [
+                    "Regular a velocidade atendendo às características do veículo, às condições da via e ao estado do condutor",
+                    "Circular nos limites máximos de velocidade das estradas",
+                    "Circular abaixo dos limites mínimos de velocidade",
+                    "Ficar em ponto morto nas descidas muito inclinadas"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 16,
+                "title": "É permitido que uma criança de 6 anos viaje no banco de frente de um automóvel",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e16.png",
+                "options": [
+                    "Sim, se não tiver bancos ou cintos de segurança na retaguarda",
+                    "Não, em nenhum caso",
+                    "Sim, mesmo que não utilize o cinto de segurança",
+                    "Sim, sempre que utilize o cinto de segurança"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 17,
+                "title": "Nos túneis, que luzes devem utilizar os veículos",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e17.png",
+                "options": [
+                    "De presença",
+                    "De cruzamento, se existe a possibilidade de encandear os condutores que circulem em sentido contrário",
+                    "De estrada, se existe a possibilidade de encandear os condutores que circulem em sentido contrário"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 18,
+                "title": "A condução defensiva é...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e18.png",
+                "options": [
+                    "A circulação de veículos e aniamsi na via pública",
+                    "A movimentação e imobilização de veículos, pessoas e animais nas vias de comunicação rodoviária",
+                    "A forma ponderada como o indivíduo conduz um veículo automóvel, de mode a evitar acidentes"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "Pode ter consequências num acidente o facto de não levar o cinto de segurança bem colocado?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e19.png",
+                "options": [
+                    "Não, se o veículo estiver equipado com airbag",
+                    "Não, o cinto é sempre eficaz",
+                    "Sim, porque pode provocar ferimentos graves",
+                    "Sim, por isso o seu uso não é obrigatório"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "Para combater a fadiga e o sono, o melhor remédio é:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e20.png",
+                "options": [
+                    "Conduzir com o banco inclinado para trás",
+                    "Oarar de conduzir, descansar e, se necessário, dormir um pouco",
+                    "Fechar todas as janelas",
+                    "Tomar uma bebida em álcool"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 21,
+                "title": "Quais os procedimentos que o condutor deve adoptar antes de iniciar uma ultrapassagem?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e21.png",
+                "options": [
+                    "Deve certificar-se de que a pode fazer sem perigo e sinalizar a manobra aos outros condutores",
+                    "Deve observar apenas o espelho esquerdo",
+                    "Deve execeder os limtes de velocidade estabelecidos para poder terminar rapidamete a manobra",
+                    "Apenas deve sinalizar a sua intenção, já que as luzes indicadoras de direcção lhe dão prioridade para realizar a manobra"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e22.png",
+                "options": [
+                    "Aproximação de saída de autro-estrada a 100 metros",
+                    "Aproximação de saída de auto-estrada a 200 metros",
+                    "Aproximação de saída de auto-estrada a 300 metros"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 23,
+                "title": "A regulamentação do trânsito no interior das localidades, compete...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e23.png",
+                "options": [
+                    "Às Delegações Provincias do INNATER",
+                    "Aos Corpos Administrativos ou aos Conselhos Municipais",
+                    "À ENE",
+                    "À Policia de Trânsito"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "A marca rodoviária de cor amarela, indica:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e24.png",
+                "options": [
+                    "Obriga todos os veículos a parar no cruzamento",
+                    "Proíbe todos os veículos de parar antes do cruzamento",
+                    "Reforça a regra que impede a imobilização de veículos no centro da intersecção"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 25,
+                "title": "Para os condutores de transporte de serviço público ou de carga perigosa, quando em exercício, a taxa de álcool de ve ser de:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame4/e25.png",
+                "options": [
+                    "0.3 mg/l",
+                    "0.0 mg/l",
+                    "0.6 mg/l"
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
+    }
+]
