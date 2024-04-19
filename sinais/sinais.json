@@ -5,87 +5,87 @@
       "sinais": [
         {
           "descricao": "Sentido obrigatório para direita",
-          "image_path": "/s1.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s1.png"
         },
         {
           "descricao": "Obrigação de transitar à velocidade mínima de 30 km/h",
-          "image_path": "/s2.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s2.png"
         },
         {
           "descricao": "Sentido obrigatório para esquerda",
-          "image_path": "/s3.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s3.png"
         },
         {
           "descricao": "Sentido obrigatório",
-          "image_path": "/s4.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s4.png"
         },
         {
           "descricao": "Sentido obrigatório",
-          "image_path": "/s5.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s5.png"
         },
         {
           "descricao": "Sentido obrigatório",
-          "image_path": "/s6.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s6.png"
         },
         {
           "descricao": "Sentidos obrigatórios possíveis",
-          "image_path": "/s7.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s7.png"
         },
         {
           "descricao": "Sentidos obrigatórios possíveis",
-          "image_path": "/s8.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s8.png"
         },
         {
           "descricao": "Sentidos obrigatórios possíveis",
-          "image_path": "/s9.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s9.png"
         },
         {
           "descricao": "Obrigação de contornar a placa ou obstáculo",
-          "image_path": "/s10.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s10.png"
         },
         {
           "descricao": "Obrigação de contornar a placa ou obstáculo",
-          "image_path": "/s11.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s11.png"
         },
         {
           "descricao": "Rotunda",
-          "image_path": "/s12.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s12.png"
         },
         {
           "descricao": "Via obrigatória para automóveis de mercadorias",
-          "image_path": "/s13.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s13.png"
         },
         {
           "descricao": "Via obrigatória para automóveis pesados",
-          "image_path": "/s14.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s14.png"
         },
         {
           "descricao": "Via reservada a veículos de transporte público",
-          "image_path": "/s14.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s15.png"
         },
         {
           "descricao": "Pista obrigatória para velocípedes",
-          "image_path": "/s14.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s16.png"
         },
         {
           "descricao": "Pista obrigatória para peões",
-          "image_path": "/s14.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s17.png"
         },
         {
           "descricao": "Pista obrigatória para caveleiros",
-          "image_path": "/s14.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s18.png"
         },
         {
           "descricao": "Pista obrigatória para gado em manada",
-          "image_path": "/s14.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s19.png"
         },
         {
           "descricao": "Pista obrigatória para peões e velocídes",
-          "image_path": "/s14.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s20.png"
         },
         {
           "descricao": "Pista obrigatória para peões e velocídes",
-          "image_path": "/s14.png"
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s21.png"
         }
       ]
     }
