@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "nome": "Sinais de Obrigação",
+      "sinais": [
+        {
+          "descricao": "Sentido obrigatório para direita",
+          "image_path": "/s1.png"
+        },
+        {
+          "descricao": "Obrigação de transitar à velocidade mínima de 30 km/h",
+          "image_path": "/s2.png"
+        },
+        {
+          "descricao": "Sentido obrigatório para esquerda",
+          "image_path": "/s3.png"
+        },
+        {
+          "descricao": "Sentido obrigatório",
+          "image_path": "/s4.png"
+        },
+        {
+          "descricao": "Sentido obrigatório",
+          "image_path": "/s5.png"
+        },
+        {
+          "descricao": "Sentido obrigatório",
+          "image_path": "/s6.png"
+        },
+        {
+          "descricao": "Sentidos obrigatórios possíveis",
+          "image_path": "/s7.png"
+        },
+        {
+          "descricao": "Sentidos obrigatórios possíveis",
+          "image_path": "/s8.png"
+        },
+        {
+          "descricao": "Sentidos obrigatórios possíveis",
+          "image_path": "/s9.png"
+        },
+        {
+          "descricao": "Obrigação de contornar a placa ou obstáculo",
+          "image_path": "/s10.png"
+        },
+        {
+          "descricao": "Obrigação de contornar a placa ou obstáculo",
+          "image_path": "/s11.png"
+        },
+        {
+          "descricao": "Rotunda",
+          "image_path": "/s12.png"
+        },
+        {
+          "descricao": "Via obrigatória para automóveis de mercadorias",
+          "image_path": "/s13.png"
+        },
+        {
+          "descricao": "Via obrigatória para automóveis pesados",
+          "image_path": "/s14.png"
+        },
+        {
+          "descricao": "Via reservada a veículos de transporte público",
+          "image_path": "/s14.png"
+        },
+        {
+          "descricao": "Pista obrigatória para velocípedes",
+          "image_path": "/s14.png"
+        },
+        {
+          "descricao": "Pista obrigatória para peões",
+          "image_path": "/s14.png"
+        },
+        {
+          "descricao": "Pista obrigatória para caveleiros",
+          "image_path": "/s14.png"
+        },
+        {
+          "descricao": "Pista obrigatória para gado em manada",
+          "image_path": "/s14.png"
+        },
+        {
+          "descricao": "Pista obrigatória para peões e velocídes",
+          "image_path": "/s14.png"
+        },
+        {
+          "descricao": "Pista obrigatória para peões e velocídes",
+          "image_path": "/s14.png"
+        }
+      ]
+    }
+  ]
+  
