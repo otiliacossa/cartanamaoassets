@@ -144,6 +144,172 @@
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s34.png"
         }
       ]
+    },
+    {
+      "id": 2,
+      "nome": "Sinais de Perigo",
+      "sinais": [
+        {
+          "descricao": "Curva à direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s1.png"
+        },
+        {
+          "descricao": "Curva à esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s2.png"
+        },
+        {
+          "descricao": "Curva à direita e contracurva",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s3.png"
+        },
+        {
+          "descricao": "Curva à esquerda e contracurva",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s4.png"
+        },
+        {
+          "descricao": "Lomba",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s5.png"
+        },
+        {
+          "descricao": "Depressão",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s6.png"
+        },
+        {
+          "descricao": "Lomba ou depressão",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s7.png"
+        },
+        {
+          "descricao": "Descida perigosa",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s8.png"
+        },
+        {
+          "descricao": "Subida de inclinação acentuada",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s9.png"
+        },
+        {
+          "descricao": "Passagem estreita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s10.png"
+        },
+        {
+          "descricao": "Passagem estreita a esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s11.png"
+        },
+        {
+          "descricao": "Passagem estreita a direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s12.png"
+        },
+        {
+          "descricao": "Pavimento escorregadio",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s13.png"
+        },
+        {
+          "descricao": "Projecção de gravilha",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s14.png"
+        },
+        {
+          "descricao": "Berma baixa a direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s15.png"
+        },
+        {
+          "descricao": "Berma baixa a esquerda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s16.png"
+        },
+        {
+          "descricao": "Saída num cais ou precipício",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s17.png"
+        },
+        {
+          "descricao": "Queda de pedras a direita",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s18.png"
+        },
+        {
+          "descricao": "Ponte móvel",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s19.png"
+        },
+        {
+          "descricao": "Neve ou gelo",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s20.png"
+        },
+        {
+          "descricao": "Vento lateral",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s21.png"
+        },
+        {
+          "descricao": "Visibilidade reduzida",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s22.png"
+        },
+        {
+          "descricao": "Crianças",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s23.png"
+        },
+        {
+          "descricao": "Idosos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s24.png"
+        },
+        {
+          "descricao": "Passagem de peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s25.png"
+        },
+        {
+          "descricao": "Travessia de peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s26.png"
+        },
+        {
+          "descricao": "Saída de cicilistas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s27.png"
+        },
+        {
+          "descricao": "Cavaleiros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s28.png"
+        },
+        {
+          "descricao": "Animais",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s29.png"
+        },
+        {
+          "descricao": "Animais selvagens",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s30.png"
+        },
+        {
+          "descricao": "Túnel",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s31.png"
+        },
+        {
+          "descricao": "Pista de aviação",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s32.png"
+        },
+        {
+          "descricao": "Sinalização luminosa",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s33.png"
+        },
+        {
+          "descricao": "Trabalhos na via",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s34.png"
+        },
+        {
+          "descricao": "Cruzamento ou entrocamento",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s35.png"
+        },
+        {
+          "descricao": "Trânsito nos dois sentidos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s36.png"
+        },
+        {
+          "descricao": "Passagem de nível com guarda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s37.png"
+        },
+        {
+          "descricao": "Passagem de nível sem guarda",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s38.png"
+        },
+        {
+          "descricao": "Intersecção com via onde circulam veículos sobre carris",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s39.png"
+        },
+        {
+          "descricao": "Outros perigos",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/sinais_de_perigo/s40.png"
+        }
+      ]
     }
   ]
   
