@@ -86,6 +86,62 @@
         {
           "descricao": "Pista obrigatória para peões e velocídes",
           "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s21.png"
+        },
+        {
+          "descricao": "Obrigação de utilizar correntes de neve",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s22.png"
+        },
+        {
+          "descricao": "Obrigação de utilizar as luzes de cruzamento (médios) acesas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s23.png"
+        },
+        {
+          "descricao": "Fim da via obrigatória para automóveis de mercadorias",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s24.png"
+        },
+        {
+          "descricao": "Fim da via obrigatória para automóveis pesados",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s25.png"
+        },
+        {
+          "descricao": "Fim da via reservada a veículos de transporte público",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s26.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para velocípedes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s27.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para peões",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s28.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para cavaleiros",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s29.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para gado em manada",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s30.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para peões e velocípedes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s31.png"
+        },
+        {
+          "descricao": "Fim da pista obrigatória para peões e velocípdes",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s32.png"
+        },
+        {
+          "descricao": "Fim da obrigação de transitar à velocidade mínima de ... km/h",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s33.png"
+        },
+        {
+          "descricao": "Fim da obrigação de utilizar correntes de neve",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s34.png"
+        },
+        {
+          "descricao": "Fim da obrigação de utilizar as luzes de cruzamento (médios) acesas",
+          "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/sinais/Sinais%20de%20Obriga%C3%A7%C3%A3o/s34.png"
         }
       ]
     }
