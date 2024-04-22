@@ -1168,5 +1168,299 @@
                 "correctOptionIndex": 1
             }
         ]
+    },
+    {
+        "id": 5,
+        "questions": [
+            {
+                "id": 1,
+                "title": "Ao travar, o que é que pode acontecer se os travões actuarem de forma desigual sobre as rodas do mesmo eixo?",
+                "image_path": " https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e1.png",
+                "options": [
+                    "As rodas bloqueiam",
+                    "O veículo altera a sua trajectória",
+                    "A distância de paragem diminui",
+                    "Melhora a estabilidade do veículo"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 2,
+                "title": "O condutor, quando muda de direcção, tem que ceder passagem aos peões que estejam a atravessar a faixa de rodagem?",
+                "image_path": " https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e2.png",
+                "options": [
+                    "Não",
+                    "Sim",
+                    "Sim, mas só aos que o façam pela passagem para peões"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "O que indica o sinal de perigo?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e3.png",
+                "options": [
+                    "Controlo policial por pirilampos",
+                    "Sinalização luminosa",
+                    "Aproximação de uma estrada com prioridade"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 4,
+                "title": "Das seguintes, qual ou quais não fazem parte das virtudes profissionais necessárias para a boa condução de veículos automóveis:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e4.png",
+                "options": [
+                    "Egoísmo",
+                    "Responsabilidade",
+                    "Cortesia e boas maneiras",
+                    "Honestidade"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 5,
+                "title": "De que modo, o consumo de álcool altera o comportamento de condutor?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e5.png",
+                "options": [
+                    "Diminui o seu tempo de reacção",
+                    "Diminui os seus erros na condução",
+                    "Aumenta a autoconfiança, e por isso aumentam os riscos",
+                    "Reduz a sua agressividade na condução"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 6,
+                "title": "Nas vias públicas, os peões devem transitar...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e6.png",
+                "options": [
+                    "Pela faixa de rodagem, mesmo que existam bermas",
+                    "Sempre pelas bermas, mesmo que existam pistas especias destinadas a eles",
+                    "Pelos passeios, pistas ou passagens a eles destinados ou, se não existirem, pelas bermas",
+                    "Pelos passeios, se empurram um veículo de tracção manual"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 7,
+                "title": "Pode uma criança com idade inferior a 3 anos viajar no banco de frente do automóvel",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e7.png",
+                "options": [
+                    "Sim, sempre que utilize o cinto de segurança",
+                    "Não, em nenhum caso",
+                    "Sim, utilizando um sistema de retenção virado para a retaguarda e com a almofada de ar frontal (airbag) do lado do passageiro",
+                    "Sim, quando o automóvel não tenha nenhum cinto de segurança"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "Para a iluminação de via, os condutores devem ligar as luzes de:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e8.png",
+                "options": [
+                    "Médios, ou máximos",
+                    "Mínimos ou máximos",
+                    "Mínimos ou médios"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 9,
+                "title": "Nesta via de dois sentidos, posso ultrapassar o veículo azul que assinala a sua intenção de ultrapassar o veículo que o precede?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e9.png",
+                "options": [
+                    "Sim, pela direita",
+                    "Sim, pela esquerda",
+                    "Não",
+                    "Sim, se existir espaço suficiente para os três na faixa de rodagem"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e10.png",
+                "options": [
+                    "Fim da proibição de circulação de tractores agrícolas",
+                    "Trânstito proibido de veículos de construção",
+                    "Trânsito proibido a tractores agrícolas"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 11,
+                "title": "O condutor que tenha ficado imobilizado num cruzamento regulado por sinalização luminosa, deve:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e11.png",
+                "options": [
+                    "Utilizar os sinais sonoros até que o deixem avançar",
+                    "Sair dele, mesmo que não esteja autorizado a avançar e não embarace trânsito de outros utentes",
+                    "Esperar que a sinalização luminosa mude para verde",
+                    "Ligar as luzes de perigo e esperar que a sinalização luminosa mude para verde"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 12,
+                "title": "Uma mulher grávida, é obrigada a usar o cinto de segurança",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e12.png",
+                "options": [
+                    "Não, porque é prejudicial para a criança",
+                    "Sim e é muito importante que esteja bem colocado porque se não, tanto ela como a criança, podem sofrer lesões graves em caso de acidente",
+                    "Não é obrigatório, mas é aconselhável",
+                    "Sim, mas apenas fora das cidades"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 13,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e13.png",
+                "options": [
+                    "Trânsito proibido a senhoras",
+                    "Paragem obrigatória",
+                    "Paragem proibida",
+                    "Fim de proibição de estacionamento"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "O sono pode provocar um acidente durante o dia?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e14.png",
+                "options": [
+                    "Não, esse tipo de acidentes só acontecem à noite",
+                    "Sim, os acidentes motivados pelo sono também acontecenm durante o dia",
+                    "Sim, mas só se conduz sob a influência de álcool",
+                    "Sim, mas apenas durante as primeiras horas da manhã"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 15,
+                "title": "Considera-se sob a influência de álcool, o condutor que apresente uma taxa de álcool igual ou superior a:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e15.png",
+                "options": [
+                    "0.1 mg/l no teste de ar expirado, ou de 0.3mg/l em teste sanguíneo",
+                    "0.3 mg/l no teste de ar expirado, ou de 0.6mg/l em teste sanguíneo",
+                    "0.6 mg/l no teste de ar expirado, ou de 0.9 mg/l teste sanguíneo"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 16,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e16.png",
+                "options": [
+                    "Proibição de circular à velocidade máximo de 60 km/h na fila a direita",
+                    "Obrigação de circular à velocidade mínima de 60 km/h na fila à direita",
+                    "Obrigação de circular à velocidade mínima de 60 km/h na fila à esquerda"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 17,
+                "title": "O que indica a marca rodoviária amarela?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e17.png",
+                "options": [
+                    "Proibição de estacionamento",
+                    "Proibição de paragem",
+                    "Estacionamento condicionado"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 18,
+                "title": "O que indica o sinal?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e18.png",
+                "options": [
+                    "Passagem de peões",
+                    "Pista obrigatória para peões",
+                    "Passagem desnivelada para peões"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 19,
+                "title": "O que indica o sinal",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e19.png",
+                "options": [
+                    "Pista obrigatória para veículos de tracção manual",
+                    "Pista obrigatória para cavaleiros",
+                    "Pista obrigatória para veículos de tracção animal"                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 20,
+                "title": "Os condutores de motociclos simples, fora das localidades, não devem exceder a velocidade instantânea de:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e20.png",
+                "options": [
+                    "60 km/h",
+                    "70 km/h",
+                    "90 km/h",
+                    "80 km/h"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "Em caso de avaria, os sinais de pre-sinalização de perigo devem colocar-se por forma a ficar bem visíveis a uma distância de...",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e21.png",
+                "options": [
+                    "Pelo menos 100 metros",
+                    "Pelo menos 50 metros",
+                    "Pelo menos 25 metros",
+                    "10 metros"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "Se pretender inverter o sentido de marcha numa via cuja largura não permite fazê-lo sem prejudicar o trânsit, deve:",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e22.png",
+                "options": [
+                    "Continuar até encontrar um local adequado onde não prejudique o trânsito",
+                    "Inverter o sentido de marcha com o menor número de manobras possíveis",
+                    "Parar o veículo de perto do eixo da via e esperar até que não haja tráfego",
+                    "Fazer a manobra, mesmo que prejudique o trânsito"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 23,
+                "title": "Qual é a validade que tem a carta de condução da categoria B?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e23.png",
+                "options": [
+                    "Dois anos",
+                    "Cinco anos",
+                    "Três anos",
+                    "Dez anos"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 24,
+                "title": "O condutor, pode fazer a verificação do nível do óleo no motor do veículo?",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e24.png",
+                "options": [
+                    "Sim, desde que mantenha o motor do veículo a trabalhar",
+                    "Sim, desde que saiba a forma correcta de verificação",
+                    "Não, apenas técnicos especializados podem fazer"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 25,
+                "title": "Que deve fazer ao aproximar-se desta intersecção",
+                "image_path": "https://carta-na-mao-app-organization.github.io/cartanamaoassets/exame5/e25.png",
+                "options": [
+                    "Ceder a passagem aos veículos que se apresentem pela via transversal",
+                    "Demonstrar prudência especial, moderando a velocidade e ceder a passagem aos veículos que tenham prioridade",
+                    "Apenas ceder a passagem aos peões que tenham prioridade",
+                    "Ceder a passagem aos veículos que se apresentem pela esquerda"
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
     }
 ]
