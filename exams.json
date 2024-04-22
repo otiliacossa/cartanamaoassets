@@ -2929,5 +2929,297 @@
                 "correctOptionIndex": 3
             }
         ]
+    },
+    {
+        "id": 11,
+        "questions": [
+            {
+                "id": 1,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e1.png",
+                "options": [
+                    "Local de passagem de nível sem guarda",
+                    "Passagem de nível",
+                    "Local de passagem de nível sem guarda com duas o mais vias"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 2,
+                "title": "Em acidente de viação com vítima, deixar de prestar ou providenciar socrro, constitui contravenção:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e2.png",
+                "options": [
+                    "Leve",
+                    "Média",
+                    "Grave"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 3,
+                "title": "Quando os pensu têm uma pressão incorreta",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e3.png",
+                "options": [
+                    "Desgantam-se mais e correm o risco de rebentar",
+                    "Desgastam-se menos e têm menos risco de rebentar",
+                    "Consome-se menos combustível",
+                    "Melhora a estabilidade do veículo e o seu conforto"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 4,
+                "title": "São evitáveis os acidentes de viação",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e4.png",
+                "options": [
+                    "Não, porque os acidentes ocorrem por acaso",
+                    "Sim, porque podemos aprender a evitá-los e a reduzir as suas consequências",
+                    "Sim, mas só se estado das estradas melhorar",
+                    "Sim, excepto os causados pelo mau estado dos pneus"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 5,
+                "title": "Desde o anoitecer até ao amanhecer, pode deixar as luzes de cruzamento acesas quando o veículo estiver estacionado?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e5.png",
+                "options": [
+                    "Sim, é obrigatório",
+                    "Não, é proibido",
+                    "Não, nesta situação deve utlizar as de estrada (máximos)",
+                    "Não, é proibido deixar qualquer luz acesa com o veículo estacionado"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 6,
+                "title": "Quando na faixa de rodagem existam placas, postes, ilhéus direccionais ou dispositivos semelhantes, como deve transitar?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e6.png",
+                "options": [
+                    "Dando-les a esquerda, se não estão numa via de dois sentidos",
+                    "Pela direita ou pela esquerda, se estão numa vida de dois sentidos",
+                    "Dando-lhes a direita, se estão numa via de dois sentidos",
+                    "Obrigatoriamente pela direita, se estão numa via de sentido único"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 7,
+                "title": "O agente regulador de trânsito que aparece na fotografia, manda",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e7.png",
+                "options": [
+                    "Parar o tráfefo que venha da retaguarda",
+                    "Parar o tráfego que venha de frente",
+                    "Parar o tráfego que venha da frente e da retarguarda"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 8,
+                "title": "A velocidade controlada pelo sinal, é:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e8.png",
+                "options": [
+                    "A velocidade mínima",
+                    "A velocidade máxima",
+                    "A velocidade recomendada"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 9,
+                "title": "Se os ocupantes de veículo não utilizarem o cinto de segurança, o airbag é eficaz?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e9.png",
+                "options": [
+                    "Sim, o airbag é sempre eficaz",
+                    "Sim, sempre que os passageiros estejam sentados correctamente",
+                    "Não e pode causa lesões graves",
+                    "Sim, mas apenas o condutor"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 10,
+                "title": "Nesta situação, posso ultrapassar?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e10.png",
+                "options": [
+                    "Sim, já que tenho prioridade no cruzamento",
+                    "Não",
+                    "Sim, mas só aso veículos que mudam de direcção para direita",
+                    "Sim, mas só aos veículos de duas rodas"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 11,
+                "title": "O sinal indica:",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e11.png",
+                "options": [
+                    "Estacionamento condicionado",
+                    "Estacionamento limitado",
+                    "Estacionamento proibido"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 12,
+                "title": "O que indica o sinal de interesse turístico",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e12.png",
+                "options": [
+                    "Lugar histórico e genérico",
+                    "Parque do campismo",
+                    "Reserva florestal"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 13,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e13.png",
+                "options": [
+                    "A existência de uma berma baixa à esquerda",
+                    "À existência de um terreno falso à direita",
+                    "A existência de uma berma baixa à direita"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 14,
+                "title": "Devem utilizar os cintos de segurança os passageiros que viajam no veículo?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e14.png",
+                "options": [
+                    "Não, só é obrigatório para o condutor",
+                    "Só fora das localidades",
+                    "Sim, tanto os que ocupem o banco de frente como o da retaguarda",
+                    "Só os que ocupem o banco da frente"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 15,
+                "title": "Qual dos veículos tem prioridade de passagem nesta situação?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e15.png",
+                "options": [
+                    "O veículo amarelo",
+                    "O veículo vermelho",
+                    "O primeiro que chegar ao cruzamento"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 16,
+                "title": "Dentro das localidades, pode utilizar os sinais sonoros...",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e16.png",
+                "options": [
+                    "Durante a noite",
+                    "Só em caso de manifestar necessidade, como um perigo iminente",
+                    "Na aproximação de uma curva",
+                    "Para protestar contra interupções de trânsito"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 17,
+                "title": "Que deve fazer o condutor perante a marca rodoviária de cor branca",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e17.png",
+                "options": [
+                    "Pisar ou transpor a linha",
+                    "Abrandar a marcha",
+                    "Ciruclar à sua esquerda, quando a linha fizer a separação de sentidos trânsito",
+                    ""
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 18,
+                "title": "Os direitos humanos",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e18.png",
+                "options": [
+                    "São universáis, intransmissíveis e de revindicação perante o Estado",
+                    "São universais, naturais e de revindicação",
+                    "São universais, individuais, inatos e de revindicação"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 19,
+                "title": "O facto de conduzir de noite, deve ter influência na velocidade a que segue?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e19.png",
+                "options": [
+                    "Não, porque a utilização de luzes é obrigatória",
+                    "Sim",
+                    "Sim, mas apenas dentro das localidades",
+                    "Não, se conheço bem a estrada"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 20,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e20.png",
+                "options": [
+                    "Dar prioridade nas passagens estreitas",
+                    "Trânsito nos dois sentidos",
+                    "Prioridade nas passagens estreitas"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 21,
+                "title": "Quando se considera velocidade excessiva",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e21.png",
+                "options": [
+                    "Sempre que o condutor não possa fazer parar o veículo no espaçp livre visível à sua frente ou exceda os limtes de velocidade",
+                    "Só quando o condutor não possa fazer parar o veículo no espaço livre e vesível",
+                    "Sempre que o condutor ultrapasse os 100 km/h",
+                    "Apenas quando condutor exceda os limtes de velocidade fixados no termos legais"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 22,
+                "title": "Num acidentes há feridos muito graves. Que deve fazer-se não sabe como os ajudar?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e22.png",
+                "options": [
+                    "Abandonar o local e não fazer nada",
+                    "Não lhes tocar e ligar a 112",
+                    "Retirar rapidamente os feridos do veículo e levá-los para o hospital mais próximo"
+                ],
+                "correctOptionIndex": 1
+            },
+            {
+                "id": 23,
+                "title": "O condutor distraído",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e23.png",
+                "options": [
+                    "Tem um tempo de reacção mais reduzido",
+                    "Tem o mesmo tempo de reacção que qualquer condutor",
+                    "Tem um tempo de reacção mais logo"
+                ],
+                "correctOptionIndex": 2
+            },
+            {
+                "id": 24,
+                "title": "Dentro das localidades, onde é proibido parar o seu veículo?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e24.png",
+                "options": [
+                    "A menos de 5 metros para um e outro lado dos cruzmentos, entrocamentos e rotundas",
+                    "Em segunda fila",
+                    "No lado da faixa de rodagem em que esteja uma linha descontínua de cor amarela",
+                    "A menos de 50 metros dos cruzamentos ou entrocamentos"
+                ],
+                "correctOptionIndex": 0
+            },
+            {
+                "id": 25,
+                "title": "O que indica o sinal?",
+                "image_path": "https://edilsonroque.github.io/cartanamaoassets/exame11/e25.png",
+                "options": [
+                    "Parque de estacionamento para veículos com altura acima do normal",
+                    "Parque de estacionamento para veículos de emergência",
+                    "Paruqe de estacionamento para miniautocarros"
+                ],
+                "correctOptionIndex": 1
+            }
+        ]
     }
 ]
